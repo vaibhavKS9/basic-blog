@@ -1,0 +1,17 @@
+# Go build artifacts
+*.exe
+*.out
+*.test
+
+# Folders
+bin/
+obj/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+
+# OS metadata
+.DS_Store
+Thumbs.db
